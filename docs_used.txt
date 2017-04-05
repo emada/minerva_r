@@ -1,0 +1,8 @@
+https://docs.docker.com/engine/getstarted/step_four/
+
+https://github.com/yihui/r-docker
+
+
+
+docker build -t docker_r2 .
+docker run docker_r2

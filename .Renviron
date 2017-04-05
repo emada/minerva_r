@@ -1,0 +1,3 @@
+_R_CHECK_CRAN_INCOMING_=FALSE
+# do not force installing packages in Suggests
+_R_CHECK_FORCE_SUGGESTS_=false
